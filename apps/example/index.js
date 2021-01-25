@@ -1,0 +1,1 @@
+alert('file index.js loaded')

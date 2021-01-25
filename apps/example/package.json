@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "web-dev-server --root-dir ../.. --app-index ../../apps/example/index.html --open"
+  }
+}

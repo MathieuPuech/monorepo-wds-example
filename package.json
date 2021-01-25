@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-wds-example",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "repository": "git@github.com:MathieuPuech/monorepo-wds-example.git",
+  "author": "Mathieu Puech <mathieu.puech@ubisoft.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.5"
+  }
+}
